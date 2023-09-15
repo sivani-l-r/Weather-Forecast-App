@@ -26,12 +26,12 @@ This Weather Forecast App is a graphical user interface (GUI) application built 
 
 ## Dependencies:
 
-Python
-tkinter (for the graphical interface)
-requests (for making API requests to obtain weather data)
-pyperclip (for copying data to the clipboard)
-PIL (Pillow) (for displaying weather icons)
-The user is required to provide a valid API key for accessing weather data.
++ Python
++ tkinter (for the graphical interface)
++ requests (for making API requests to obtain weather data)
++ pyperclip (for copying data to the clipboard)
++ PIL (Pillow) (for displaying weather icons)
++ The user is required to provide a valid API key for accessing weather data.
 
 ## Usage:
 
